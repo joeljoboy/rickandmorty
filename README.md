@@ -1,4 +1,4 @@
-
+You can makes use of node v-16 in order for the project to work smoothly.
 
 ### Packages installation steps
 
